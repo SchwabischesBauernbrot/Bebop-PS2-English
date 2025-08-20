@@ -19,16 +19,10 @@ A full 100% English fan translation patch with all text, graphics, credits and m
 
 The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware.
 
-> [!CAUTION]
+> [!TIP]
 > Ein's Epic Adventure can only be unlocked by completing the game on normal difficulty.
-> 
-> After completing the game you will unlock a "2nd Opening". I have no idea what this is referring to.
-> 
+> Faye can steal collectibles from certain enemies using grab + stun.
 > For OPL users, enable compatibility modes 1 and 2, and make sure GSM is disabled. VMC and PADEMU are safe to use.
-
-> [!WARNING]
-> Setting "Translation" in the game options to "none" will break all text in the game.
-
 
 ## 💾 Download & Checksums
 
