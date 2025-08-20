@@ -1,0 +1,10 @@
+Bundled utils
+
+- 7zip.dll sha1sum:f3880a7556176bdf2ed3afb394982f70ab0dcf8a
+- 7z.exe sha1sum:63949b0a3490db904bcb7875fcca725a1159edc4
+- zstd.exe sha1sum:ffcf4c4bee0d1a4c9812fa2916b69482b0bf7c99
+
+Bundled utils come from
+
+- https://www.7-zip.org/a/7z2501-x64.exe sha1sum:eaedd181996b4fe1ae15b6ae40c37adb6729489e
+- https://github.com/facebook/zstd/releases/download/v1.5.7/zstd-v1.5.7-win64.zip sha1sum:968bbf3eed668c986350d99c8e08c0c48f327c60
