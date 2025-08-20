@@ -21,16 +21,18 @@ The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware
 
 > [!TIP]
 > Ein's Epic Adventure can only be unlocked by completing the game on normal difficulty.
+> 
 > Faye can steal collectibles from certain enemies using grab + stun.
+> 
 > For OPL users, enable compatibility modes 1 and 2, and make sure GSM is disabled. VMC and PADEMU are safe to use.
 
 ## 💾 Download & Checksums
 
 | File (sha1sum)                                                                          | Size    | Download                                                            |
 |-----------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
-| Original ISO<br/>3e6968ec5b83d930b9536e96f8911c7f2256c19f                               | 3.17 GB | Dump your own disc!<br/>Either original or Shokai Genteiban Box.    |
-| COWBOY_BEBOP_PS2_PATCHER_ENGLISH_1.0.0.zip<br/>a392778444168c9428fbc9ba35eb11ae8bcc8d70 | 667 MB  | [💾 See releases](https://github.com/Bebop-PS2-English/releases)    |
-| COWBOY_BEBOP_PS2_ENGLISH_PATCHED_1.0.0.iso<br/>966e76a618608c9b84bfaf9756974fc91ef99d5d | 2.21 GB | Generate this file using our patcher.                                |
+| Original ISO<br/>576529dac9ea566643fd76d0dd5147fa380efe53                               | 3.31 GB | Dump your own disc!<br/>Either original or Shokai Genteiban Box.    |
+| COWBOY_BEBOP_PS2_PATCHER_ENGLISH_1.0.0.zip<br/>a392778444168c9428fbc9ba35eb11ae8bcc8d70 | 7.03 MB  | [💾 See releases](https://github.com/Bebop-PS2-English/releases)    |
+| COWBOY_BEBOP_PS2_ENGLISH_PATCHED_1.0.0.iso<br/>966e76a618608c9b84bfaf9756974fc91ef99d5d | 2.18 GB | Generate this file using our patcher.                                |
 
 The patcher works on Windows and Linux.
 
