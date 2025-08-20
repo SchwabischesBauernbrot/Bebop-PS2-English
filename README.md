@@ -42,6 +42,7 @@ The patchers work on Windows and Linux.
 
 Drag and drop the original ISO file onto the `WINDOWS_DROP_BEBOP_PS2_ISO_HERE.bat` file if you are using Windows.
 
+https://github.com/SONICMAN69/Bebop-PS2-English/blob/main/images/english/Patcher%20Tutorial.mp4
 
 Drag and drop the original ISO file onto the `LINUX_DROP_BEBOP_PS2_ISO_HERE.sh` file if you are using Linux. Note: The file must be executable and your environnment must be allowing drag and drop a file onto a `.sh` script.
 
