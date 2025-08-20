@@ -21,7 +21,9 @@ The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware
 
 > [!CAUTION]
 > Ein's Epic Adventure can only be unlocked by completing the game on normal difficulty.
+> 
 > After completing the game you will unlock a "2nd Opening". I have no idea what this is referring to.
+> 
 > For OPL users, enable compatibility modes 1 and 2, and make sure GSM is disabled. VMC and PADEMU are safe to use.
 
 > [!WARNING]
