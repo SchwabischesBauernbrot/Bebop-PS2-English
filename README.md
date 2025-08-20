@@ -20,8 +20,8 @@ A full 100% English fan translation patch with all text, graphics, credits and m
 The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware.
 
 > [!CAUTION]
-> Check the [wiki](https://github.com/Bebop-PS2-English/wiki) for important notes for new players, streamers, and also emulation tips.
->
+> Ein's Epic Adventure can only be unlocked by completing the game on normal difficulty.
+> After completing the game you will unlock a "2nd Opening". I have no idea what this is referring to.
 > For OPL users, enable compatibility modes 1 and 2, and make sure GSM is disabled. VMC and PADEMU are safe to use.
 
 > [!WARNING]
@@ -41,6 +41,8 @@ The patcher works on Windows and Linux.
 ### How to use the patcher easily
 
 Drag and drop the original ISO file onto the `WINDOWS_DROP_BEBOP_PS2_ISO_HERE.bat` file if you are using Windows.
+
+https://private-user-images.githubusercontent.com/138543979/480258597-41a56e75-dd78-4cb7-8ff1-833512893802.mp4
 
 Drag and drop the original ISO file onto the `LINUX_DROP_BEBOP_PS2_ISO_HERE.sh` file if you are using Linux. Note: The file must be executable and your environnment must be allowing drag and drop a file onto a `.sh` script.
 
