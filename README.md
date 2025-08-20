@@ -28,7 +28,7 @@ The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware
 > Setting "Translation" in the game options to "none" will break all text in the game.
 
 
-## 💾 Downloads and checksums
+## 💾 Download & Checksums
 
 | File (sha1sum)                                                                          | Size    | Download                                                            |
 |-----------------------------------------------------------------------------------------|---------|---------------------------------------------------------------------|
