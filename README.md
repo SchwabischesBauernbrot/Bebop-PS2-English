@@ -1,10 +1,11 @@
-[![BEBOP PS2 PATCH](images/banner.png)](https://github.Bebop-PS2-English.com/)<p align="center">
+[![BEBOP PS2 PATCH](images/banner.png)](https://github.Bebop-PS2-English.com/)
 
-  <i align="center">English patch for the Cowboy Bebop PlayStation 2 game released in 2005.</i>
+  <p align="center">
+    English patch for the Cowboy Bebop PlayStation 2 game released in 2005.</i>
 </p>
 
 <p align="center">
-    Original name of the game : <i>Cowboy Bebop 追憶の夜曲</i> (<i>Cowboy Bebop: Tsuioku no Serenade</i>)
+    Original game title: <i>Cowboy Bebop 追憶の夜曲</i> (<i>Cowboy Bebop: Tsuioku no Serenade</i>)
 </p>
 
 ## 💬 English Translation
