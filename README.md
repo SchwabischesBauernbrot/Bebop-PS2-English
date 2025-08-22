@@ -9,7 +9,7 @@
 
 ## 💬 English Translation
 
-A full 100% English fan translation patch with all text, graphics, credits and much more translated.
+A full 100% English fan translation patch with all text, graphics, credits, and much more translated.
 
 <p align="center">
     <img src="images/english/screenshot1.png" width="200" />
@@ -20,7 +20,7 @@ A full 100% English fan translation patch with all text, graphics, credits and m
 The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware.
 
 > [!TIP]
-> Ein's Epic Adventure can only be unlocked by completing the game on normal difficulty.
+> 'Ein's Epic Adventure' can only be unlocked by completing the game on normal difficulty.
 > 
 > Faye can steal collectibles from certain enemies using grab + stun.
 > 
