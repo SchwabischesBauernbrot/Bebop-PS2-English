@@ -25,6 +25,8 @@ The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware
 > Faye can steal collectibles from certain enemies using grab + stun.
 > 
 > For OPL users, enable compatibility modes 1 and 2, and make sure GSM is disabled. VMC and PADEMU are safe to use.
+>
+> For PCSX2 users, switch to software rendering if the game is performing poorly.
 
 ## 💾 Download & Checksums
 
@@ -34,7 +36,7 @@ The patched game works on the *PCSX2* emulator and real *PlayStation 2* hardware
 | COWBOY_BEBOP_PS2_PATCHER_ENGLISH_1.0.0.zip<br/>a392778444168c9428fbc9ba35eb11ae8bcc8d70 | 7.03 MB  | [💾 See releases](https://github.com/SONICMAN69/Bebop-PS2-English/releases)|
 | COWBOY_BEBOP_PS2_ENGLISH_PATCHED_1.0.0.iso<br/>966e76a618608c9b84bfaf9756974fc91ef99d5d | 2.18 GB | Generate this file using our patcher.                                        |
 
-The patcher works on Windows and Linux.
+The patcher works on Windows, Linux, and Mac.
 
 ### How to use the patcher easily
 
@@ -53,6 +55,16 @@ Drag and drop the original ISO file onto the `LINUX_DROP_BEBOP_PS2_ISO_HERE.sh` 
 # In a Linux shell
 bash LINUX_DROP_BEBOP_PS2_ISO_HERE.sh original_bebop_ps2.iso
 ```
+### How to use the patcher on Mac (thanks [mkody](https://github.com/mkody))
+
+>Have [homebrew](https://brew.sh/) installed
+>
+>Make sure GNU's coreutils and zstd are installed: `brew install coreutils zstd`
+>
+>Replace dd with gdd: `sed -i '' 's/ dd / gdd /g' LINUX_DROP_BEBOP_PS2_ISO_HERE.sh`
+>
+>Run the script: `bash LINUX_DROP_BEBOP_PS2_ISO_HERE.sh bebop.iso`
+
 ## 🏆 Credits
 |                     | Credits                             |
 |---------------------|-------------------------------------|
